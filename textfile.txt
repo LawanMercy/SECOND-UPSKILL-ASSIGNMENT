@@ -12,7 +12,7 @@
       making it more accessible and useful for users, hereby providing both
       usability and SEO.
       
-      In HTML, normal elements typically require both an opening and a closing tag to enclose content. For example: <p This is a
+      In HTML, normal elements typically require both an opening and a closing tag to enclose content. For example: <p> This is a
       paragraph. </p> and Self-closing tags are stand alone elements without content,requiring no separate closing tag. For example:
       <img src="image.jpg" alt="Description" />
 
