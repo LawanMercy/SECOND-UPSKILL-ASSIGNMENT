@@ -16,7 +16,5 @@
       paragraph. </p> and Self-closing tags are stand alone elements without content,requiring no separate closing tag. For example:
       <img src="image.jpg" alt="Description" />
 
-      Inline elements in HTML, such as <span>, <a>, <img>, <strong>, <em>, etc. are used within block-level elements to style or apply functionality to specific
-      content parts without starting on a new line while block-level elements, such as <div>, <p>, <h1> to <h6>, are used to structure webpage layouts and create
-      distinct content blocks.
+      Inline elements in HTML, such as <span>, <a>, <img>, <strong>, <em>, etc. are used within block-level elements to style or apply functionality to specific content parts without starting on a new line while block-level elements, such as <div>, <p>, <h1> to <h6>, are used to structure webpage layouts and create distinct content blocks.
     
